@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain and crypto, aromatherapy and nutrition... and many other things :) 
 - 🌱 I’m currently learning Rust and Solidity
 - 💞️ I’m looking to collaborate on everything
-- 📫 You can reach me at lilmaxwell@protonmail.com
+- 📫 You can reach me at lilmaxwell@proton.me
 
 <!---
 lilmaxw/lilmaxw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
