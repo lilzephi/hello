@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lilmaxw
+- 👋 Hi, I’m Zephi
 - 👀 I’m interested in blockchain and crypto, aromatherapy and nutrition... and many other things :) 
 - 🌱 I’m currently learning Python
 - 💞️ I’m open to collaboration
